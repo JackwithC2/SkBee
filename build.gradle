@@ -1,3 +1,4 @@
+
 import org.apache.tools.ant.filters.ReplaceTokens
 
 plugins {
@@ -11,7 +12,7 @@ compileJava {
 }
 
 // SkBee version
-version = '3.6.2'
+version = '3.6.1'
 def latestJava = 21
 def oldestJava = 17
 
